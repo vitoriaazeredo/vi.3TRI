@@ -7,3 +7,4 @@ function tocaSomPom() {
   
   document.querySelectorALL('.tecla')
   
+  const listaDeTeclas = document.querySelectorALL(.'tecla');
